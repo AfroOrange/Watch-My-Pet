@@ -1,0 +1,6 @@
+# Pipenv files
+Pipfile
+Pipfile.lock
+
+# Visual studio settings
+.vscode
