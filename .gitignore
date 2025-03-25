@@ -4,3 +4,4 @@ Pipfile.lock
 
 # Visual studio settings
 .vscode
+__pycache__/
